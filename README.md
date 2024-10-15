@@ -18,8 +18,6 @@ Cette application Android présente une galerie interactive des personnages de l
 - **Partager l'application** : Fonctionnalité pour partager l'application avec d'autres utilisateurs.
 - **Évaluation des personnages** : Système de notation par étoiles pour évaluer chaque personnage.
 
-## Démo Vidéo
-
 
 ## Technologies utilisées
 - **Langage** : Java
@@ -36,6 +34,9 @@ Cette application Android présente une galerie interactive des personnages de l
   
 ## Auteur 
 Sakhr niama
+
+## Démo Vidéo
+https://github.com/user-attachments/assets/047735e2-7123-4da1-a4bb-16481a1e6c8c
 
 ## Installation
 1. Clonez le dépôt GitHub :
