@@ -38,7 +38,3 @@ Sakhr niama
 ## Démo Vidéo
 https://github.com/user-attachments/assets/047735e2-7123-4da1-a4bb-16481a1e6c8c
 
-## Installation
-1. Clonez le dépôt GitHub :
-   ```bash
-   git clone https://github.com/username/nom_du_projet.git
